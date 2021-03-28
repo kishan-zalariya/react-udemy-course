@@ -5,6 +5,10 @@
   border-radius: 5px;
   box-shadow: 0 2px 5px #ccc;
 }
+.likeCount {
+  font-weight: 600;
+  font-size: 18px;
+}
 
 /* Laptop, Desktop */
 @media (min-width: 992px) {
